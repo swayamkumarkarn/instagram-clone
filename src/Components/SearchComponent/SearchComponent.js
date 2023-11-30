@@ -8,7 +8,7 @@ const SearchComponent = () => {
     setIsInputSelected(true);
   };
 
-  const handleInputBlur = () => {
+  const handleInputBlur = () => { 
     setIsInputSelected(false);
   };
 

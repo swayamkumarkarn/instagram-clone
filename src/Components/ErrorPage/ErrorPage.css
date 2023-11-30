@@ -1,0 +1,23 @@
+body {
+    background-color: #FAFAFA;
+}
+.error__page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.error__logo {
+    width: 175px;
+    margin-top: 25px;
+}
+
+.error__text{
+    
+    margin:5px;
+    border: 1px solid #DBDBDB;
+    background-color: #FAFAFA;
+    padding-left: 10px;
+    border-radius: 5px;
+}
